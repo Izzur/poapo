@@ -1,0 +1,1 @@
+{"id":"fb48a618-0203-497b-a24d-f93f77a319ef","space":5712,"runtime":"nodejs14.x","name":"poapo","path":"82m9kp","project":"c0zdakm2","account":"144798365827","region":"ap-southeast-1","deps":["fastify@^4.4.0","axios@^0.27.2"],"envs":null,"public":true,"log_level":"off","cron":""}
