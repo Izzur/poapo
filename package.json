@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Izzur/poapo#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "fastify": "^4.4.0",
+    "fastify": "^4.5.2",
     "sharp": "^0.30.7"
   }
 }
